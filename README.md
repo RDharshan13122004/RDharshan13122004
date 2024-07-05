@@ -1,7 +1,5 @@
-![code banner](https://www.pinterest.com/pin/1138918193244129525/)
 <h1 align="center">Hi 👋, I'm Dharshan Srinivas R</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="coding img" src="https://www.pinterest.com/pin/pinterest--311381761734186207/" width="50" height="50">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdharshan13122004&label=Profile%20views&color=0e75b6&style=flat" alt="rdharshan13122004" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rdharshan13122004" alt="rdharshan13122004" /></a> </p>
