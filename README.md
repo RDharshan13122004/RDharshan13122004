@@ -4,7 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rdharshan13122004" alt="rdharshan13122004" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🔭 I’m currently working on **Student Management system**
+
+- 🌱 I’m currently learning **Flask**
 
 - 👨‍💻 All of my projects are available at [https://rdharshan13122004.github.io/presonal-profile-page/](https://rdharshan13122004.github.io/presonal-profile-page/)
 
